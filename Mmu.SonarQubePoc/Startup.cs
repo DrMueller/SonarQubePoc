@@ -18,6 +18,12 @@ namespace Mmu.SonarQubePoc
             Configuration = configuration;
         }
 
+        [Obsolete]  // Noncompliant
+        public static void Tra()
+        {
+
+        }
+
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
