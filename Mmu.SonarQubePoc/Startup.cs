@@ -30,6 +30,10 @@ namespace Mmu.SonarQubePoc
 
         }
 
+        public async void Test1234()
+        {
+        }
+
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.

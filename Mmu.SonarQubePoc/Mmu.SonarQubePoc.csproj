@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <Features>IOperation</Features>
+    <CodeAnalysisRuleSet>..\CA_ProductionCode.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
 
 </Project>

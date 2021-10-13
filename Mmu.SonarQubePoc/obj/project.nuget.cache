@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MGqSgRS4t/vX0VUp0PGcT42n2IccGNGeAsb8zrxT28Mw7KB2/62Ve7cdvW0s60kSet9lC5hfr0zYV/MzSTHlfg==",
+  "dgSpecHash": "LfbWINGZ08WJg4BrQnwjIppvBfJCYPCGhQaq81MvJhQiDEwnA27MC0sDy8zsR8VHhauNJvSFnFjJNil4hK5iyg==",
   "success": true,
   "projectFilePath": "C:\\MyGit\\Personal\\SonarQubePoc\\Mmu.SonarQubePoc\\Mmu.SonarQubePoc.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mlm\\.nuget\\packages\\microsoft.visualstudio.threading.analyzers\\17.0.63\\microsoft.visualstudio.threading.analyzers.17.0.63.nupkg.sha512"
+  ],
   "logs": []
 }
